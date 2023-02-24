@@ -1,14 +1,17 @@
-## Numerical Methods
 
-### Practical Questions
+# Numerical Methods
 
+
+## Practical Questions:
+
+<code>
 
 1. Write a C program to calculate the Mean, Median and Mean Deviation of a simple distribution.
 
 2. Write a C program to compute the Standard Deviation.
 
 3. Write a C program to implement the Least Square Approximation for fitting a Straight line y=mx+c, 
-		where "m" is the slope and "c" is the intercept on the y-axis for data points:
+	where "m" is the slope and "c" is the intercept on the y-axis for data points:
     	(-1,10), (0,9), (1,7), (2,5), (3,4), (4,3), (5,0), (6,-1).
 
 4. Write a C program to find the real root of the equation Cube[x]-4x+1=0  by using the Method of Successive Approximation.
@@ -65,3 +68,4 @@
 
 20. Write a C program to approximate y when x=0.1, 0.2, 0.3 and h=0.1 using Runge-Kutta Method. Given x=0, when y=1 and D[y,x]=x+y.		
 
+</code>
