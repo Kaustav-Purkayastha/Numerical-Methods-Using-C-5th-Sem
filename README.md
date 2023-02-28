@@ -1,10 +1,10 @@
 
-# Numerical Methods
+# Numerical-Methods-Using-C-5th-Sem
 
+> This repository contains all the Numerical Methods College Practicals using C Language done by me in B.Sc. 5th Semester.
 
-## Practical Questions:
-
-<code>
+## List of Practical Questions:
+<pre>
 
 1. Write a C program to calculate the Mean, Median and Mean Deviation of a simple distribution.
 
@@ -67,5 +67,4 @@
 19. Write a C program for solving a differential equation D[y=Power[x,2]+y,x], y(0)=1.Find y(0.02) when h(0.01)=1 by Modified Euler's Method.
 
 20. Write a C program to approximate y when x=0.1, 0.2, 0.3 and h=0.1 using Runge-Kutta Method. Given x=0, when y=1 and D[y,x]=x+y.		
-
-</code>
+</pre>
