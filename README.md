@@ -67,11 +67,12 @@ $$ {sinx=1+x^3} $$
 
 
 #### Q7) &ensp; Write a C program to solve the following set of equations by Gauss Elimination Method: <br/> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 2x<sub>1</sub> + 4x<sub>2</sub> + 2x<sub>3</sub> = 15 <br/> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+<p align=center>
+2x<sub>1</sub> + 4x<sub>2</sub> + 2x<sub>3</sub> = 15 <br/> 
 2x<sub>1</sub> + x<sub>2</sub> + 2x<sub>3</sub> = -54 <br/> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 x<sub>1</sub> + x<sub>2</sub> - 2x<sub>3</sub> = 0 <br/>
+</p>
+
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Numerical-Methods-Using-C-5th-Sem/blob/main/Solutions/Q-07/GaussEliminationMethod.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/Numerical-Methods-Using-C-5th-Sem/blob/main/Solutions/Q-07/GaussEliminationMethod.jpg) 🖥
 <br/>
